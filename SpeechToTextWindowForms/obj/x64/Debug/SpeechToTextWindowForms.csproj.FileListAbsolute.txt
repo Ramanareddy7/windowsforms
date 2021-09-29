@@ -1,0 +1,509 @@
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.AssemblyReference.cache
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.UserController.UContacts.resources
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\source\repos\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csprojAssemblyReference.cache
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Apollo\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.AssemblyReference.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PoornaPillarisetti\Downloads\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.AssemblyReference.cache
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.dll
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.xml
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+D:\Titans\SpeechToTextWindowForms_SignalR (1)\SpeechToTextWindowForms_SignalR\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.dll
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.pdb
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.pdb
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.xml
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Ariqt\SpeechToText\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csprojAssemblyReference.cache
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.manifest
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.application
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.dll
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.pdb
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.pdb
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.xml
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe.manifest
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.application
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Ariqt\Tack\SpeechToTextWindowForms\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.audio.sys.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.lu.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.config
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe.manifest
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.application
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\SpeechToTextWindowForms.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Core.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\NAudio.Wasapi.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Elasticsearch.Net.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Options.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.pdb
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Nest.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Buffers.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Memory.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.AccessControl.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Permissions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Security.Principal.Windows.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Text.Json.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Channels.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.AssemblyReference.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Form1.resources
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.Properties.Resources.resources
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.GenerateResource.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe.manifest
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.application
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.csproj.CopyComplete
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.exe
+C:\Users\RamanaReddy\Downloads\SpeechToTextWindowForms\SpeechToTextWindowForms\obj\x64\Debug\SpeechToTextWindowForms.pdb
